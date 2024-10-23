@@ -1,1 +1,1 @@
-vega-datasets
+vega_datasets
